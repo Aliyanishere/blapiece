@@ -198,8 +198,10 @@ i {
   }
 
   .img_home {
-    display: none;
+    margin: auto;
+    margin-top: 10px;
   }
+
 
   .button_1 {
     width: 100%;

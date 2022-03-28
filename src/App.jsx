@@ -129,7 +129,7 @@ function App() {
         <div className="container px-0 my-5">
           <div className="row mx-0 justify-content-center ">
             <div className="col-lg-7 px-0">
-              <div className="container my-5">
+              <div className="container my-lg-5 my-0">
                 <h1 className='text-white fw-bold col-lg-8 col-12'>What is Blapiece NFTs</h1>
                 <p className='text-white my-4 col-lg-10 col-12'>futuristic first of it's kind NFT that combines all forms of art and fashion. Blapiece is the first fashion band to use digital robots as model to show case their collection incorporation 3D art and futuristic designs. And in case you haven't guessed it yet  Blapiece NFTs are the 3D pictures of robot.</p>
                 <a href="">   <img className='w-30 button_1' src={button} alt="" /></a>
